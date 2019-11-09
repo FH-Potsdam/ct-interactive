@@ -15,8 +15,10 @@
 ## Images
 
 1. Result images need to be located in each packages folder under `images`
-2. Each image has to be added to the `images.json` file in the images folder
-3. NO UPPERCASE names
-4. NO whitespaces in names
-5. NO special characters `öäüß?=)(/&%$§"!*'#.;:,`
-6. `a-z` and `0-9` and `_-` are okay
+2. Images should be type PNG
+3. Images should be 500 × 500 Pixels
+4. Each image has to be added to the `images.json` file in the images folder
+5. NO UPPERCASE names
+6. NO whitespaces in names
+7. NO special characters `öäüß?=)(/&%$§"!*'#.;:,`
+8. `a-z` and `0-9` and `_-` are okay
